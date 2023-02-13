@@ -1,0 +1,36 @@
+body {
+    background-image:url(https://raw.githubusercontent.com/JuneGabi/TumblrJune/main/assets/images/bg-tree.png);
+}
+
+div
+{
+    text-align: start;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    display: grid;
+    align-items: stretch;
+    justify-content: start;
+    width:20%;
+}
+.one
+{
+    /*background-color:limegreen;*/
+    float: left;
+    width:35%
+}
+.two
+{
+    /*background-color:orange;*/
+    float: left;
+}
+
+p 
+{
+    margin: 0em;
+}
+
+.girl
+{
+    font-size: 25px;
+}
